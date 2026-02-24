@@ -42,7 +42,7 @@ export function ContactSection() {
                   <div className="w-10 h-10 rounded-full bg-blue-500/10 flex items-center justify-center group-hover:bg-blue-500/20 transition-colors">
                     <Mail className="w-4 h-4 text-blue-600" />
                   </div>
-                  <span className="text-sm">projects.smartpay@gmail.com</span>
+                  <span className="text-sm">business@smartpay.ke</span>
                 </a>
 
                 <div className="flex items-center gap-3 text-foreground/80">
